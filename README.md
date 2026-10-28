@@ -23,11 +23,11 @@ imports them as Python modules with `import_ipynb`.
 
 ## Getting started
 
-1. Install Python and Jupyter Notebook.
+1. Install Python.
 2. Install the project dependencies:
 
    ```bash
-   python -m pip install scikit-learn import-ipynb
+   python -m pip install -r requirements.txt
    ```
 
 3. Open `Mystery Friend.ipynb` in Jupyter and run its cells from top to bottom.
